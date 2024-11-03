@@ -7,9 +7,11 @@ public class ue02_3 {
         int r = 4;
         double x = In.readInt();
         double y = In.readInt();
-        double g = Math.sqrt()
         
-        if (g = );{}
+        
+        if (Math.sqrt(x) && Math.sqrt(y) == 4) {Out.println("true");
+    }
+    else {Out.print("false"); };
         
 
 
